@@ -1,0 +1,13 @@
+C:\Desarrollo\Net\CorpReports\CorpReports\bin\Debug\CorpReports.exe
+C:\Desarrollo\Net\CorpReports\CorpReports\bin\Debug\CorpReports.pdb
+C:\Desarrollo\Net\CorpReports\CorpReports\bin\Debug\DBHelper.dll
+C:\Desarrollo\Net\CorpReports\CorpReports\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Desarrollo\Net\CorpReports\CorpReports\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Desarrollo\Net\CorpReports\CorpReports\bin\Debug\DBHelper.pdb
+C:\Desarrollo\Net\CorpReports\CorpReports\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Net\CorpReports\CorpReports\obj\Debug\CorpReports.ReportMain.resources
+C:\Desarrollo\Net\CorpReports\CorpReports\obj\Debug\CorpReports.Properties.Resources.resources
+C:\Desarrollo\Net\CorpReports\CorpReports\obj\Debug\CorpReports.csproj.GenerateResource.Cache
+C:\Desarrollo\Net\CorpReports\CorpReports\obj\Debug\CorpReports.exe
+C:\Desarrollo\Net\CorpReports\CorpReports\obj\Debug\CorpReports.pdb
+C:\Desarrollo\Net\CorpReports\CorpReports\bin\Debug\CorpReports.exe.config
